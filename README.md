@@ -1,3 +1,4 @@
+![logo](https://github.com/NandiniSatghare09/NandiniSatghare09/blob/main/DD.png)
 <h1 align="center">Hi 👋, I'm Nandini Satghare</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
