@@ -1,4 +1,4 @@
-![logo](https://github.com/NandiniSatghare09/NandiniSatghare09/blob/main/github.png)
+![logo](https://github.com/NandiniSatghare09/NandiniSatghare09/blob/main/1.png)
 # 💫 Hi 👋, I' m Nandini Satghare
 **A passionate Data Analyst || DevOps Engineer from India**
 
